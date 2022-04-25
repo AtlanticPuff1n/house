@@ -1,0 +1,10 @@
+GET localhost:8080/info
+
+###
+GET localhost:8080/getAll
+
+###
+GET localhost:8080/get?id=1
+
+###
+GET localhost:8080/totalprice
